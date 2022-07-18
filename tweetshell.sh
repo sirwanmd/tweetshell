@@ -1,7 +1,7 @@
 #!/bin/bash
 # Tweetshell v1.0
-# Coded by: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+# Coded by: github.com/sirwanmd
+# Instagram: @sirwanmd
 
 trap 'store;exit 1' 2
 
